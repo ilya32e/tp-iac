@@ -36,4 +36,5 @@ jobs:
 
     steps:
       - name: Display deployment target
-        run: echo "Deploiement cible : ${{ vars.APP_ENV }}"
+        run: |
+          echo "Deploiement cible : ${{ vars.APP_ENV }}"
