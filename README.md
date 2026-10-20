@@ -1,4 +1,4 @@
-# TP Jour 3 — Terraform et GitLab CI/CD
+# TP Jour 3
 
 ## Infrastructure
 
